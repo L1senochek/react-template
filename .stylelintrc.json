@@ -2,10 +2,6 @@
   "extends": [
     "stylelint-config-standard",
     "stylelint-config-standard-scss",
-    "stylelint-config-clean-order",
-    "stylelint-config-prettier"
-  ],
-  "rules": {
-    "prettier/prettier": true
-  }
+    "stylelint-config-clean-order"
+  ]
 }
