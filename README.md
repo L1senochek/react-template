@@ -15,7 +15,7 @@
 1) Открой репозиторий на GitHub
 2) Нажми Use this template
 3) Создай новый проект
-4) 
+4) введи комманду ```npm install new-repo-install```
 
 
 
